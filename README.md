@@ -17,6 +17,9 @@ arrows represent the flow of data, the lines represent the buses, and the boxes 
 an operation unit or a storage area. 
 
 # WORKING:
+![image](https://github.com/user-attachments/assets/efbb8a5d-71d4-4c6b-9f17-ed5e4d2dae71)
+
+
 1. Data enters the processor core through the Data bus. The ARM processor uses a load 
 store architecture. This means it has two instruction types for transferring data in and 
 out of the processor: load instructions copy data from memory to registers in the core, 
